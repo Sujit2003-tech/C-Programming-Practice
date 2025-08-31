@@ -11,8 +11,8 @@ int main(){
     du = 5.78654;
     ch = 'S';
     printf("Interger value is: %d \n",num);
-    printf("Floating value is : %f \n",f1);
+    printf("Floating value is : %.2f \n",f1);
     printf("character value is: %c\n",ch);
-    printf("Double vaule is : %lf",du);
+    printf("Double vaule is : %.3lf",du);
 
 }
